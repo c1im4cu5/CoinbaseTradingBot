@@ -86,7 +86,7 @@ threadpoolctl==3.1.0
 toolz==0.11.2
 txaio==22.2.1
 typing==3.7.4.3
-urllib3==1.26.9
+urllib3==1.26.18
 varint==1.0.2
 vyper==0.3.3
 web3==5.29.1
