@@ -88,7 +88,7 @@ txaio==22.2.1
 typing==3.7.4.3
 urllib3==1.26.9
 varint==1.0.2
-vyper==0.3.3
+vyper==0.3.10
 web3==5.29.1
 websocket-client==0.40.0
 websockets==9.1
