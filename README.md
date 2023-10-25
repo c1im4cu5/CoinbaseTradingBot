@@ -1,5 +1,5 @@
 # CoinbaseTradingBot
-A fun full stack project for Python users looking to learn asynchronous connection and websockets for trading on Coinbase (cbpro and copra).
+A fun project for Python users looking to learn asynchronous (asyncio) connection and websockets for real-time trading on Coinbase (cbpro and copra libraries).
 
 ## Basic Concept
 <p>Using API key, secret and passphrase (provided via .env file), connect to Coinbase for stable pair trading on WBTC-BTC. Stable pair trading on Coinbase is without maker fees. An established websocket connection is used to perform real-time trading. It could easily be implemented for real-time analysis and trading for technical indicators.</p>
