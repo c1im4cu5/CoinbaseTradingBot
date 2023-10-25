@@ -92,7 +92,7 @@ vyper==0.3.3
 web3==5.29.1
 websocket-client==0.40.0
 websockets==9.1
-Werkzeug==2.2.2
+Werkzeug==3.0.1
 wincertstore==0.2
 wrapt==1.14.1
 wsproto==1.2.0
